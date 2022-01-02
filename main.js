@@ -3,7 +3,7 @@ const progress = document.querySelector('.progress').clientWidth;
 const progressBar = document.querySelector('.progress span');
 
 const targetEnd = new Date(2022, 1, 1, 0, 0, 0);
-const targetStart = new Date(2022, 0, 1, 0, 0, 0);
+const targetStart = new Date(2021, 7, 1, 0, 0, 0);
 
 updateDate();
 
